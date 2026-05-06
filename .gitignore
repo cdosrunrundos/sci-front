@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Keep this file itself
+!.gitignore
+
+# Keep the docs folder and all its contents
+!docs/
+!docs/**

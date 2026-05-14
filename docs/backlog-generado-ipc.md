@@ -3,6 +3,10 @@
 > Documento generado a partir de: resultado-analisis.md consolidado del módulo Ingreso de IPC manual  
 > Fecha: 2026-05-06
 
+## Navegacion relacionada
+
+- Ver backlog de ajustes puntuales: [backlog-generado-ipc-manual-ajustes.md](backlog-generado-ipc-manual-ajustes.md)
+
 ---
 
 ## Índice de Épicas
